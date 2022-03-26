@@ -1,5 +1,4 @@
-**The Dogelon Mars Community
-**
+**The Dogelon Mars Community**
 
 Hello and welcome to The Dogelon Mars Community on Github.
 This is our place, our space station, if you will, to start an open and honest Dogelon Mars project of your own. You can either decide to build on top of the current implementations of Dogelon Mars, or start your own. We are here to support anyone who has a desire to join the Mission to Mars. 
